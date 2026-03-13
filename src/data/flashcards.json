@@ -1,0 +1,2240 @@
+[
+  {
+    "id": "toan_1",
+    "category": "toan",
+    "front": "*   Fraction / Decimal / Percentage",
+    "back": "*   Phân số / Số thập phân / Tỉ số phần trăm"
+  },
+  {
+    "id": "toan_2",
+    "category": "toan",
+    "front": "*   Numerator / Denominator",
+    "back": "*   Tử số / Mẫu số"
+  },
+  {
+    "id": "toan_3",
+    "category": "toan",
+    "front": "*   Even number / Odd number",
+    "back": "*   Số chẵn / Số lẻ"
+  },
+  {
+    "id": "toan_4",
+    "category": "toan",
+    "front": "*   Prime number / Composite number",
+    "back": "*   Số nguyên tố (VD: 2, 3, 5, 7) / Hợp số"
+  },
+  {
+    "id": "toan_5",
+    "category": "toan",
+    "front": "*   Consecutive numbers",
+    "back": "*   Các số liên tiếp (VD: 3, 4, 5)"
+  },
+  {
+    "id": "toan_6",
+    "category": "toan",
+    "front": "*   Sum / Difference / Product / Quotient",
+    "back": "*   Tổng / Hiệu / Tích / Thương"
+  },
+  {
+    "id": "toan_7",
+    "category": "toan",
+    "front": "*   Remainder",
+    "back": "*   Số dư (trong phép chia)"
+  },
+  {
+    "id": "toan_8",
+    "category": "toan",
+    "front": "*   Average (Mean)",
+    "back": "*   Trung bình cộng"
+  },
+  {
+    "id": "toan_9",
+    "category": "toan",
+    "front": "*   Ratio / Proportion",
+    "back": "*   Tỉ số / Tỉ lệ"
+  },
+  {
+    "id": "toan_10",
+    "category": "toan",
+    "front": "*   Multiple / Factor (Divisor)",
+    "back": "*   Bội số (VD: 10 là bội của 2) / Ước số (VD: 2 là ước của 10)"
+  },
+  {
+    "id": "toan_11",
+    "category": "toan",
+    "front": "*   Least Common Multiple (LCM) / Greatest Common Divisor (GCD)",
+    "back": "*   Bội chung nhỏ nhất (BCNN) / Ước chung lớn nhất (UCLN)"
+  },
+  {
+    "id": "toan_12",
+    "category": "toan",
+    "front": "*   Value / Digit",
+    "back": "*   Giá trị / Chữ số (VD: Số 123 có 3 digits)"
+  },
+  {
+    "id": "toan_13",
+    "category": "toan",
+    "front": "*   Perimeter / Area / Volume",
+    "back": "*   Chu vi / Diện tích / Thể tích"
+  },
+  {
+    "id": "toan_14",
+    "category": "toan",
+    "front": "*   Length / Width / Height / Depth",
+    "back": "*   Chiều dài / Chiều rộng / Chiều cao / Chiều sâu"
+  },
+  {
+    "id": "toan_15",
+    "category": "toan",
+    "front": "*   Triangle / Rectangle / Square",
+    "back": "*   Hình tam giác / Hình chữ nhật / Hình vuông"
+  },
+  {
+    "id": "toan_16",
+    "category": "toan",
+    "front": "*   Circle / Radius / Diameter",
+    "back": "*   Hình tròn / Bán kính / Đường kính"
+  },
+  {
+    "id": "toan_17",
+    "category": "toan",
+    "front": "*   Rhombus / Trapezium (Trapezoid) / Parallelogram",
+    "back": "*   Hình thoi / Hình thang / Hình bình hành"
+  },
+  {
+    "id": "toan_18",
+    "category": "toan",
+    "front": "*   Cube / Cuboid (Rectangular prism)",
+    "back": "*   Hình lập phương / Hình hộp chữ nhật"
+  },
+  {
+    "id": "toan_19",
+    "category": "toan",
+    "front": "*   Cylinder / Sphere",
+    "back": "*   Hình trụ / Hình cầu"
+  },
+  {
+    "id": "toan_20",
+    "category": "toan",
+    "front": "*   Base / Diagonal / Vertex",
+    "back": "*   Cạnh đáy / Đường chéo / Đỉnh"
+  },
+  {
+    "id": "toan_21",
+    "category": "toan",
+    "front": "*   Angle (Right, Acute, Obtuse)",
+    "back": "*   Góc (Góc vuông, Góc nhọn, Góc tù)"
+  },
+  {
+    "id": "toan_22",
+    "category": "toan",
+    "front": "*   Speed / Distance / Time",
+    "back": "*   Vận tốc / Quãng đường / Thời gian"
+  },
+  {
+    "id": "toan_23",
+    "category": "toan",
+    "front": "*   Weight (Mass) / Capacity",
+    "back": "*   Khối lượng / Dung tích"
+  },
+  {
+    "id": "toan_24",
+    "category": "toan",
+    "front": "*   Profit / Loss / Discount",
+    "back": "*   Lợi nhuận (tiền lãi) / Lỗ / Giảm giá"
+  },
+  {
+    "id": "toan_25",
+    "category": "toan",
+    "front": "*   Interest / Interest rate",
+    "back": "*   Tiền lãi (ngân hàng) / Lãi suất"
+  },
+  {
+    "id": "toan_26",
+    "category": "toan",
+    "front": "*   Twice / Thrice / Half / Quarter",
+    "back": "*   Gấp đôi (2 lần) / Gấp ba (3 lần) / Một nửa (1/2) / Một phần tư (1/4)"
+  },
+  {
+    "id": "toan_27",
+    "category": "toan",
+    "front": "*   Increase by / Decrease by",
+    "back": "*   Tăng thêm... / Giảm đi..."
+  },
+  {
+    "id": "toan_28",
+    "category": "toan",
+    "front": "*   At least / At most",
+    "back": "*   Ít nhất (Tối thiểu) / Nhiều nhất (Tối đa)"
+  },
+  {
+    "id": "toan_29",
+    "category": "toan",
+    "front": "*   Evaluate / Calculate / Solve",
+    "back": "*   Định giá, ước lượng / Tính toán / Giải (bài toán)"
+  },
+  {
+    "id": "toan_30",
+    "category": "toan",
+    "front": "*   Sequence / Pattern",
+    "back": "*   Dãy số / Quy luật"
+  },
+  {
+    "id": "toan_31",
+    "category": "toan",
+    "front": "*   Tìm số số hạng của dãy số cách đều",
+    "back": "*   (Số cuối - Số đầu) : Khoảng cách + 1"
+  },
+  {
+    "id": "toan_32",
+    "category": "toan",
+    "front": "*   Tính tổng dãy số cách đều",
+    "back": "*   (Số cuối + Số đầu) × Số số hạng : 2"
+  },
+  {
+    "id": "toan_33",
+    "category": "toan",
+    "front": "*   Tìm số hạng thứ n của dãy số",
+    "back": "*   Số đầu + (n - 1) × Khoảng cách"
+  },
+  {
+    "id": "toan_34",
+    "category": "toan",
+    "front": "*   Quy luật Fibonacci",
+    "back": "*   Số thứ 3 bằng tổng 2 số liền trước (Ví dụ: 1, 1, 2, 3, 5, 8, 13...)"
+  },
+  {
+    "id": "toan_35",
+    "category": "toan",
+    "front": "*   Dãy số tính tổng các phân số có quy luật",
+    "back": "*   1/(1x2) + 1/(2x3) + ... = 1 - 1/2 + 1/2 - 1/3 + ... = 1 - 1/n"
+  },
+  {
+    "id": "toan_36",
+    "category": "toan",
+    "front": "*   Đếm chữ số đánh số trang sách",
+    "back": "*   Trang 1-9: 9 chữ số; Trang 10-99: 180 chữ số; Trang 100-999: 2700 chữ số."
+  },
+  {
+    "id": "toan_37",
+    "category": "toan",
+    "front": "*   Chuyển đổi % sang phân số",
+    "back": "*   25% = 1/4; 50% = 1/2; 75% = 3/4; 20% = 1/5; 40% = 2/5"
+  },
+  {
+    "id": "toan_38",
+    "category": "toan",
+    "front": "*   Tìm X% của Y",
+    "back": "*   Y × X : 100 (Ví dụ: 20% của 50 là: 50 × 20 : 100 = 10)"
+  },
+  {
+    "id": "toan_39",
+    "category": "toan",
+    "front": "*   Biết X% của một số là Y, tìm số đó",
+    "back": "*   Y : X × 100"
+  },
+  {
+    "id": "toan_40",
+    "category": "toan",
+    "front": "*   Tỉ lệ phần trăm diện tích khi tăng cạnh hình vuông lên 10%",
+    "back": "*   Cạnh mới: 110%. Diện tích mới = 110% × 110% = 121%. Diện tích tăng: 21%"
+  },
+  {
+    "id": "toan_41",
+    "category": "toan",
+    "front": "*   Bài toán Rút gọn phân số tối giản",
+    "back": "*   Chia cả tử và mẫu cho UCLN của chúng."
+  },
+  {
+    "id": "toan_42",
+    "category": "toan",
+    "front": "*   So sánh 2 phân số \"Phần bù tới 1\"",
+    "back": "*   2023/2024 và 2024/2025. Phần bù: 1/2024 > 1/2025 nên 2023/2024 < 2024/2025."
+  },
+  {
+    "id": "toan_43",
+    "category": "toan",
+    "front": "*   Bài toán Tổng & Hiệu",
+    "back": "*   Số lớn = (Tổng + Hiệu) : 2. Số bé = (Tổng - Hiệu) : 2."
+  },
+  {
+    "id": "toan_44",
+    "category": "toan",
+    "front": "*   Bài toán Tổng & Tỉ (hoặc Hiệu & Tỉ)",
+    "back": "*   Tìm \"Tổng số phần bằng nhau\" (hoặc \"Hiệu số phần bằng nhau\"). Tính giá trị 1 phần rồi nhân lên."
+  },
+  {
+    "id": "toan_45",
+    "category": "toan",
+    "front": "*   Bài toán tính tuổi",
+    "back": "*   Điểm cốt lõi: **Hiệu số tuổi của 2 người không bao giờ thay đổi theo thời gian**."
+  },
+  {
+    "id": "toan_46",
+    "category": "toan",
+    "front": "*   Bài toán công việc chung (Vòi nước)",
+    "back": "*   Quy về 1 giờ. Vòi 1: 3h đầy -> 1h chảy 1/3 bể. Vòi 2: 6h đầy -> 1h chảy 1/6 bể. Cả 2 vòi 1h: 1/3+1/6=1/2 bể => 2h đầy."
+  },
+  {
+    "id": "toan_47",
+    "category": "toan",
+    "front": "*   Giả thiết tạm (Bài toán gà và chó)",
+    "back": "*   Giả sử tất cả đều là gà (hoặc chó). Tìm số chân chênh lệch để suy ra số con của mỗi loại."
+  },
+  {
+    "id": "toan_48",
+    "category": "toan",
+    "front": "*   Bài toán trồng cây (2 đầu có cây)",
+    "back": "*   Số cây = (Quãng đường : Khoảng cách) + 1"
+  },
+  {
+    "id": "toan_49",
+    "category": "toan",
+    "front": "*   Bài toán trồng cây (Không đầu nào có cây)",
+    "back": "*   Số cây = (Quãng đường : Khoảng cách) - 1"
+  },
+  {
+    "id": "toan_50",
+    "category": "toan",
+    "front": "*   Bài toán trồng cây (Mạch vòng khép kín)",
+    "back": "*   Số cây = Quãng đường : Khoảng cách"
+  },
+  {
+    "id": "toan_51",
+    "category": "toan",
+    "front": "*   Bài toán Cưa gỗ",
+    "back": "*   Số nhát cưa = Số đoạn - 1. Thời gian = Số nhát × thời gian 1 nhát."
+  },
+  {
+    "id": "toan_52",
+    "category": "toan",
+    "front": "*   Tính Quãng đường, Vận tốc, Thời gian",
+    "back": "*   S = v × t ; v = S / t ; t = S / v"
+  },
+  {
+    "id": "toan_53",
+    "category": "toan",
+    "front": "*   Chuyển động ngược chiều (Gặp nhau)",
+    "back": "*   Thời gian = Quãng đường / Tổng vận tốc ($t = S / (v_1 + v_2)$)"
+  },
+  {
+    "id": "toan_54",
+    "category": "toan",
+    "front": "*   Chuyển động cùng chiều (Đuổi kịp)",
+    "back": "*   Thời gian = Khoảng cách ban đầu / Hiệu vận tốc ($t = S / (v_1 - v_2)$)"
+  },
+  {
+    "id": "toan_55",
+    "category": "toan",
+    "front": "*   Vận tốc trung bình",
+    "back": "*   VTB = Tổng quãng đường / Tổng thời gian. (KHÔNG PHẢI là trung bình cộng của 2 vận tốc)."
+  },
+  {
+    "id": "toan_56",
+    "category": "toan",
+    "front": "*   Bài toán xuôi dòng, ngược dòng nước",
+    "back": "*   V_xuôi = V_thực + V_nước. V_ngược = V_thực - V_nước. V_nước = (V_xuôi - V_ngược) / 2."
+  },
+  {
+    "id": "toan_57",
+    "category": "toan",
+    "front": "*   Tàu hỏa lướt qua cột điện",
+    "back": "*   Quãng đường đi được chính là Chiều dài tàu hỏa. (S = L_tàu)"
+  },
+  {
+    "id": "toan_58",
+    "category": "toan",
+    "front": "*   Tàu hỏa lướt qua cây cầu dài L",
+    "back": "*   Quãng đường đi được = Chiều dài tàu + Chiều dài cầu. (S = L_tàu + L_cầu)"
+  },
+  {
+    "id": "toan_59",
+    "category": "toan",
+    "front": "*   Vận tốc âm thanh/ánh sáng (Mở rộng)",
+    "back": "*   Sét đánh: Thấy chớp trước, nghe tiếng sấm sau. Dùng $S = v_{âm} \\times t$ để đo xấp xỉ khoảng cách."
+  },
+  {
+    "id": "toan_60",
+    "category": "toan",
+    "front": "*   Bài toán Dirichlet (Lồng chim)",
+    "back": "*   Có N+1 con chim nhốt trong N lồng, chắn chắn có ít nhất 1 lồng chứa từ 2 con trở lên."
+  },
+  {
+    "id": "toan_61",
+    "category": "toan",
+    "front": "*   Tìm chữ số tận cùng của tích",
+    "back": "*   Tích có chứa chữ số có tận cùng là 0 thì tận cùng là 0. Tích lẻ với 5 thì tận cùng là 5. Tích chẵn với 5 thì tận cùng là 0."
+  },
+  {
+    "id": "toan_62",
+    "category": "toan",
+    "front": "*   Tìm chữ số tận cùng của a^n (ví dụ 2^2024)",
+    "back": "*   Tìm chu kỳ lặp lại tận cùng. (VD luỹ thừa của 2 có chu kỳ 4: 2, 4, 8, 6. Lấy 2024 : 4 dư 0 => tận cùng là 6)."
+  },
+  {
+    "id": "toan_63",
+    "category": "toan",
+    "front": "*   Bài toán cái cân đĩa (Tìm vật giả)",
+    "back": "*   Nếu có 9 đồng xu, chia làm 3 nhóm (3,3,3). 1 lần cân 2 nhóm 3 sẽ xác định được nhóm 3 chứa đồng giả. Cân thêm 1 lần xác định được đồng giả (Tổng 2 lần)."
+  },
+  {
+    "id": "toan_64",
+    "category": "toan",
+    "front": "*   Suy luận logic người nói dối / nói thật",
+    "back": "*   Phương pháp: Giả sử một người nói thật, suy ra các mệnh đề. Nếu có mâu thuẫn -> loại. Nếu hợp logic -> đáp án."
+  },
+  {
+    "id": "toan_65",
+    "category": "toan",
+    "front": "*   Bài toán đường đi (Graph theory)",
+    "back": "*   Đếm số đường đi ngắn nhất hoặc số cái bắt tay: $n(n-1)/2$."
+  },
+  {
+    "id": "toan_66",
+    "category": "toan",
+    "front": "*   Hình chữ nhật (Chu vi & Diện tích)",
+    "back": "*   $C = (a+b) \\times 2$ ; $S = a \\times b$"
+  },
+  {
+    "id": "toan_67",
+    "category": "toan",
+    "front": "*   Hình vuông (Chu vi & Diện tích)",
+    "back": "*   $C = a \\times 4$ ; $S = a \\times a$"
+  },
+  {
+    "id": "toan_68",
+    "category": "toan",
+    "front": "*   Hình bình hành (Chu vi & Diện tích)",
+    "back": "*   $C = (a+b) \\times 2$ ; Diện tích = Đáy × Chiều cao ($S = a \\times h$)"
+  },
+  {
+    "id": "toan_69",
+    "category": "toan",
+    "front": "*   Hình thoi (Chu vi & Diện tích)",
+    "back": "*   $C = a \\times 4$ ; Diện tích = (Đường chéo 1 × Đường chéo 2) / 2"
+  },
+  {
+    "id": "toan_70",
+    "category": "toan",
+    "front": "*   Hình thang (Diện tích)",
+    "back": "*   $S = (Đáy_lớn + Đáy_nhỏ) \\times Chiều_cao / 2$"
+  },
+  {
+    "id": "toan_71",
+    "category": "toan",
+    "front": "*   Hình tam giác (Diện tích)",
+    "back": "*   $S = (Đáy \\times Chiều_cao) / 2$"
+  },
+  {
+    "id": "toan_72",
+    "category": "toan",
+    "front": "*   Tam giác vuông",
+    "back": "*   Diện tích = Tích 2 cạnh góc vuông / 2."
+  },
+  {
+    "id": "toan_73",
+    "category": "toan",
+    "front": "*   Hình tròn (Chu vi & Diện tích)",
+    "back": "*   $C = d \\times 3.14$ (hoặc $r \\times 2 \\times 3.14$) ; $S = r \\times r \\times 3.14$"
+  },
+  {
+    "id": "toan_74",
+    "category": "toan",
+    "front": "*   Bán kính & Đường kính",
+    "back": "*   Đường kính $d = 2 \\times r$. Nếu $S$ hình tròn tăng 4 lần thì $r$ tăng 2 lần."
+  },
+  {
+    "id": "toan_75",
+    "category": "toan",
+    "front": "*   Hai tam giác chung chiều cao",
+    "back": "*   Tỉ số diện tích bằng tỉ số độ dài 2 cạnh đáy tương ứng."
+  },
+  {
+    "id": "toan_76",
+    "category": "toan",
+    "front": "*   Hai tam giác chung đáy",
+    "back": "*   Tỉ số diện tích bằng tỉ số độ dài 2 chiều cao tương ứng."
+  },
+  {
+    "id": "toan_77",
+    "category": "toan",
+    "front": "*   Hình thang (Tính chất 2 đường chéo)",
+    "back": "*   2 đường chéo chia hình thang thành 4 tam giác. Hai tam giác bên có diện tích bằng nhau ($S_{AD} = S_{BC}$)."
+  },
+  {
+    "id": "toan_78",
+    "category": "toan",
+    "front": "*   Tăng đáy hình chữ nhật 10%, giảm rộng 10%, diện tích thay đổi?",
+    "back": "*   S mới = 110% × 90% = 99%. Diện tích giảm 1%."
+  },
+  {
+    "id": "toan_79",
+    "category": "toan",
+    "front": "*   Diện tích phần tô màu (Square inscribed in a circle)",
+    "back": "*   Diện tích hv / Diện tích hình tròn ngoại tiếp = $2 / 3.14$."
+  },
+  {
+    "id": "toan_80",
+    "category": "toan",
+    "front": "*   Cắt ghép hình tròn thành hình chữ nhật",
+    "back": "*   Chiều dài HCN = Nửa chu vi hình tròn ($r \\times 3.14$), chiều rộng = $r$."
+  },
+  {
+    "id": "toan_81",
+    "category": "toan",
+    "front": "*   Lát gạch nền nhà",
+    "back": "*   Số viên gạch = Diện tích nền : Diện tích 1 viên gạch (chú ý đổi cùng đơn vị)."
+  },
+  {
+    "id": "toan_82",
+    "category": "toan",
+    "front": "*   Đếm số hình (Tam giác, HCN)",
+    "back": "*   Đánh số các hình đơn. Liệt kê hình đơn, ghép 2, ghép 3... hoặc dùng quy luật $1+2+3...+n$."
+  },
+  {
+    "id": "toan_83",
+    "category": "toan",
+    "front": "*   Hình hộp chữ nhật (Diện tích xung quanh)",
+    "back": "*   $S_{xq} = Chu vi đáy \\times Chiều cao = (a+b) \\times 2 \\times h$"
+  },
+  {
+    "id": "toan_84",
+    "category": "toan",
+    "front": "*   Hình hộp chữ nhật (Diện tích toàn phần)",
+    "back": "*   $S_{tp} = S_{xq} + 2 \\times S_{đáy} = (a+b) \\times 2 \\times h + 2 \\times a \\times b$"
+  },
+  {
+    "id": "toan_85",
+    "category": "toan",
+    "front": "*   Thể tích hình hộp chữ nhật",
+    "back": "*   $V = a \\times b \\times h$ (Chiều dài × Rộng × Cao)"
+  },
+  {
+    "id": "toan_86",
+    "category": "toan",
+    "front": "*   Hình lập phương (Diện tích xung quanh)",
+    "back": "*   $S_{xq} = a \\times a \\times 4$ (Diện tích 1 mặt nhân 4)"
+  },
+  {
+    "id": "toan_87",
+    "category": "toan",
+    "front": "*   Hình lập phương (Diện tích toàn phần)",
+    "back": "*   $S_{tp} = a \\times a \\times 6$ (Diện tích 1 mặt nhân 6)"
+  },
+  {
+    "id": "toan_88",
+    "category": "toan",
+    "front": "*   Thể tích hình lập phương",
+    "back": "*   $V = a \\times a \\times a$"
+  },
+  {
+    "id": "toan_89",
+    "category": "toan",
+    "front": "*   Tỉ lệ thay đổi thể tích",
+    "back": "*   Cạnh gấp 2 lần -> Diện tích mặt gấp 4 ($2^2$) -> Thể tích gấp 8 ($2^3$)."
+  },
+  {
+    "id": "toan_90",
+    "category": "toan",
+    "front": "*   Sơn khối gỗ được ghép từ nhiều khối nhỏ (Cạnh n)",
+    "back": "*   Số khối sơn 3 mặt (Nằm ở 8 góc) = Luôn là 8 (trừ khi n=1,2)."
+  },
+  {
+    "id": "toan_91",
+    "category": "toan",
+    "front": "*   Sơn khối gỗ: Số khối sơn 2 mặt",
+    "back": "*   Nằm ở các cạnh: $(n-2) \\times 12$"
+  },
+  {
+    "id": "toan_92",
+    "category": "toan",
+    "front": "*   Sơn khối gỗ: Số khối sơn 1 mặt",
+    "back": "*   Nằm ở các mặt: $(n-2) \\times (n-2) \\times 6$"
+  },
+  {
+    "id": "toan_93",
+    "category": "toan",
+    "front": "*   Sơn khối gỗ: Số khối không sơn mặt nào (Ẩn bên trong)",
+    "back": "*   $(n-2) \\times (n-2) \\times (n-2)$"
+  },
+  {
+    "id": "toan_94",
+    "category": "toan",
+    "front": "*   Đơn vị đo thể tích: 1 dm3 = ?",
+    "back": "*   $1 dm^3 = 1$ lít = $1000 cm^3$"
+  },
+  {
+    "id": "toan_95",
+    "category": "toan",
+    "front": "*   Đơn vị đo diện tích: 1 ha = ?",
+    "back": "*   1 hecta (ha) = 1 $hm^2$ = 10,000 $m^2$."
+  },
+  {
+    "id": "toan_96",
+    "category": "toan",
+    "front": "*   Bức tường và quét vôi",
+    "back": "*   Nhớ phải TRỪ đi diện tích các cửa sổ và cửa ra vào khỏi S xung quanh và S trần nhà."
+  },
+  {
+    "id": "toan_97",
+    "category": "toan",
+    "front": "*   Thả chìm hòn non bộ vào bể nước",
+    "back": "*   Thể tích vật chìm = Thể tích phần nước dâng lên (Diện tích đáy × chiều cao nước dâng)."
+  },
+  {
+    "id": "toan_98",
+    "category": "toan",
+    "front": "*   Quay một hình chữ nhật quanh cạnh",
+    "back": "*   Quay quanh cạnh dài -> Ra hình trụ có đường cao = dài, bán kính đáy = rộng."
+  },
+  {
+    "id": "toan_99",
+    "category": "toan",
+    "front": "*   Sự trải phẳng của hình chóp",
+    "back": "*   Net of a pyramid: 1 đa giác đáy và các tam giác xung quanh."
+  },
+  {
+    "id": "toan_100",
+    "category": "toan",
+    "front": "*   Bài toán cái bóng (Shadow)",
+    "back": "*   Áp dụng tính chất tam giác đồng dạng / Tỉ số tỉ lệ thuận giữa chiều cao và độ dài bóng."
+  },
+  {
+    "id": "anh_1",
+    "category": "anh",
+    "front": "*   Thì Hiện tại đơn (Dấu hiệu)",
+    "back": "*   always, usually, often, sometimes, never, every day, once a week."
+  },
+  {
+    "id": "anh_2",
+    "category": "anh",
+    "front": "*   Thì Hiện tại tiếp diễn (Dấu hiệu)",
+    "back": "*   now, right now, at the moment, at present, Look!, Listen!"
+  },
+  {
+    "id": "anh_3",
+    "category": "anh",
+    "front": "*   Thì Hiện tại hoàn thành (Công thức & Dấu hiệu)",
+    "back": "*   S + have/has + V3/ed. Dấu hiệu: just, already, recently, ever, never, yet, for + khoảng TG, since + mốc TG."
+  },
+  {
+    "id": "anh_4",
+    "category": "anh",
+    "front": "*   Thì Quá khứ đơn (Công thức khẳng định)",
+    "back": "*   S + V2/ed. Diễn tả hành động ĐÃ kết thúc ở quá khứ."
+  },
+  {
+    "id": "anh_5",
+    "category": "anh",
+    "front": "*   Thì Tương lai đơn / Tương lai gần",
+    "back": "*   Will + V (quyết định ngay lúc nói) / Be going to + V (kế hoạch từ trước)."
+  },
+  {
+    "id": "anh_6",
+    "category": "anh",
+    "front": "*   Used to + V",
+    "back": "*   Đã từng làm gì trong quá khứ (nhưng nay không còn). CĐịnh: S + used to + V. PĐịnh: S + didn't use to + V."
+  },
+  {
+    "id": "anh_7",
+    "category": "anh",
+    "front": "*   Câu điều kiện loại 1",
+    "back": "*   If + S + V(htđ), S + will/can + V. (Có thể xảy ra ở HT/TL)."
+  },
+  {
+    "id": "anh_8",
+    "category": "anh",
+    "front": "*   Câu điều kiện loại 2",
+    "back": "*   If + S + V(qkđ)/were, S + would/could + V. (Trái ngược thực tế ở hiện tại)."
+  },
+  {
+    "id": "anh_9",
+    "category": "anh",
+    "front": "*   Unless",
+    "back": "*   Unless = If... not (Trừ khi). *Unless you study hard, you will fail.*"
+  },
+  {
+    "id": "anh_10",
+    "category": "anh",
+    "front": "*   S + wish (Câu ước ở hiện tại)",
+    "back": "*   S1 + wish(es) + S2 + V(qkđ)/were."
+  },
+  {
+    "id": "anh_11",
+    "category": "anh",
+    "front": "*   So sánh bằng",
+    "back": "*   S1 + be + as + adj + as + S2."
+  },
+  {
+    "id": "anh_12",
+    "category": "anh",
+    "front": "*   So sánh hơn (Tính từ ngắn)",
+    "back": "*   S1 + be + adj-ER + than + S2."
+  },
+  {
+    "id": "anh_13",
+    "category": "anh",
+    "front": "*   So sánh hơn (Tính từ dài)",
+    "back": "*   S1 + be + MORE adj + than + S2."
+  },
+  {
+    "id": "anh_14",
+    "category": "anh",
+    "front": "*   So sánh nhất (Tính từ ngắn/dài)",
+    "back": "*   the + adj-EST / the + MOST adj."
+  },
+  {
+    "id": "anh_15",
+    "category": "anh",
+    "front": "*   Các tính từ so sánh bất quy tắc",
+    "back": "*   Good -> Better -> The best; Bad -> Worse -> The worst; Far -> Further/Farther; Many/Much -> More -> The most."
+  },
+  {
+    "id": "anh_16",
+    "category": "anh",
+    "front": "*   Who / Which / That",
+    "back": "*   Who (thay cho NGƯỜI, làm C.N hoặc tân ngữ). Which (thay cho VẬT). That (thay cho CẢ 2, nhưng KHÔNG dùng sau dấu phẩy)."
+  },
+  {
+    "id": "anh_17",
+    "category": "anh",
+    "front": "*   Whose / Whom",
+    "back": "*   Whose (sở hữu, + N). Whom (thay cho NGƯỜI làm tân ngữ)."
+  },
+  {
+    "id": "anh_18",
+    "category": "anh",
+    "front": "*   But / However",
+    "back": "*   Đều mang nghĩa \"Nhưng\". *He is sick, but he goes to work.* / *He is sick. However, he goes to work.*"
+  },
+  {
+    "id": "anh_19",
+    "category": "anh",
+    "front": "*   Because / Because of",
+    "back": "*   Because + Mệnh đề (S + V). Because of + Danh từ / V-ing."
+  },
+  {
+    "id": "anh_20",
+    "category": "anh",
+    "front": "*   Although / In spite of (Despite)",
+    "back": "*   Mặc dù. Although + Mệnh đề (S+V). In spite of / Despite + Danh từ / V-ing."
+  },
+  {
+    "id": "anh_21",
+    "category": "anh",
+    "front": "*   Cấu trúc chung của Bị động",
+    "back": "*   Tobe + V3(Past Participle). *Ngôi nhà được xây năm ngoái: The house WAS BUILT last year.*"
+  },
+  {
+    "id": "anh_22",
+    "category": "anh",
+    "front": "*   Nguyên tắc Câu Tường thuật (Reported Speech)",
+    "back": "*   Lùi thì (HT -> QK, QK -> QKHT), đổi Đại từ (I -> he/she), đổi Trạng từ (now -> then, tomorrow -> the next day)."
+  },
+  {
+    "id": "anh_23",
+    "category": "anh",
+    "front": "*   \"Let's go to the cinema\", he said. (Chuyển sang Tường thuật với Suggest)",
+    "back": "*   He suggested going to the cinema."
+  },
+  {
+    "id": "anh_24",
+    "category": "anh",
+    "front": "*   In / On / At (Thời gian)",
+    "back": "*   In (Năm, tháng, mùa). On (Ngày, thứ). At (Giờ, lễ hội)."
+  },
+  {
+    "id": "anh_25",
+    "category": "anh",
+    "front": "*   Interested IN... / Good AT...",
+    "back": "*   Thích thú về điều gì / Giỏi về cái gì."
+  },
+  {
+    "id": "anh_26",
+    "category": "anh",
+    "front": "*   Famous FOR... / Fond OF... / Keen ON...",
+    "back": "*   Nổi tiếng vì / Yêu thích / Say mê."
+  },
+  {
+    "id": "anh_27",
+    "category": "anh",
+    "front": "*   Look forward TO + ...",
+    "back": "*   Look forward TO + V-ing: Mong đợi điều gì."
+  },
+  {
+    "id": "anh_28",
+    "category": "anh",
+    "front": "*   Prevent SO FROM V-ing",
+    "back": "*   Ngăn cản ai làm việc gì."
+  },
+  {
+    "id": "anh_29",
+    "category": "anh",
+    "front": "*   Can / Could",
+    "back": "*   Trọng tâm: Chỉ khả năng (Ability) hoặc Lời yêu cầu (Request)."
+  },
+  {
+    "id": "anh_30",
+    "category": "anh",
+    "front": "*   Must / Have to",
+    "back": "*   Phải làm gì. *Mustn't: Cấm đoán*. *Don't have to: Không cần thiết*."
+  },
+  {
+    "id": "anh_31",
+    "category": "anh",
+    "front": "*   Should / Ought to",
+    "back": "*   Lời khuyên: Nên làm gì."
+  },
+  {
+    "id": "anh_32",
+    "category": "anh",
+    "front": "*   Sau các động từ Enjoy, Mind, Practise, Avoid... ta dùng:",
+    "back": "*   Dùng **V-ing** (Gerund)."
+  },
+  {
+    "id": "anh_33",
+    "category": "anh",
+    "front": "*   Sau Want, Decide, Hope, Agree, Plan... ta dùng:",
+    "back": "*   Dùng **To + Verb** (Infinitive)."
+  },
+  {
+    "id": "anh_34",
+    "category": "anh",
+    "front": "*   Stop to V / Stop V-ing",
+    "back": "*   Stop to V (Dừng lại **để** làm gì). Stop V-ing (Dừng QUÁ TRÌNH đang làm lại)."
+  },
+  {
+    "id": "anh_35",
+    "category": "anh",
+    "front": "*   Remember/Forget + To V",
+    "back": "*   Nhớ/Quên PHẢI làm việc gì (chưa xảy ra). (VD: *Remember to lock the door*)."
+  },
+  {
+    "id": "anh_36",
+    "category": "anh",
+    "front": "*   Too... to... (Quá... đến nỗi không thể)",
+    "back": "*   S + be + too + adj + (for O) + to V. (Tương đương: S + be + so + adj + THAT...)"
+  },
+  {
+    "id": "anh_37",
+    "category": "anh",
+    "front": "*   Enough... to...",
+    "back": "*   S + be + adj + enough + (for O) + to V. LƯU Ý: tính từ đứng TRƯỚC \"enough\", danh từ đứng SAU \"enough\" (enough money)."
+  },
+  {
+    "id": "anh_38",
+    "category": "anh",
+    "front": "*   It takes / took + SO + time + to V",
+    "back": "*   Tương đương với: S + spend / spent + time + V-ING."
+  },
+  {
+    "id": "anh_39",
+    "category": "anh",
+    "front": "*   Cấu trúc Suggest (Khuyên bảo)",
+    "back": "*   S1 + suggest(s) + THAT + S2 + SHOULD + V nguyên thể."
+  },
+  {
+    "id": "anh_40",
+    "category": "anh",
+    "front": "*   It's a pity (Thật đáng tiếc) => Đổi sang Wish",
+    "back": "*   It's a pity I don't have a car. => I wish I had a car."
+  },
+  {
+    "id": "anh_41",
+    "category": "anh",
+    "front": "*   Teach, Act, Build, Write -> Danh từ chỉ người?",
+    "back": "*   Teacher, Actor, Builder, Writer."
+  },
+  {
+    "id": "anh_42",
+    "category": "anh",
+    "front": "*   Hậu tố -TION / -SION tạo Danh từ từ Động từ.",
+    "back": "*   Discuss -> Discussion; Invent -> Invention; Decide -> Decision; Pollute -> Pollution."
+  },
+  {
+    "id": "anh_43",
+    "category": "anh",
+    "front": "*   Hậu tố -NESS tạo Danh từ từ Tính từ.",
+    "back": "*   Happy -> Happiness; Sad -> Sadness; Dark -> Darkness; Weak -> Weakness."
+  },
+  {
+    "id": "anh_44",
+    "category": "anh",
+    "front": "*   Hậu tố -MENT tạo Danh từ từ Động từ.",
+    "back": "*   Develop -> Development; Enjoy -> Enjoyment; Equip -> Equipment."
+  },
+  {
+    "id": "anh_45",
+    "category": "anh",
+    "front": "*   Thêm UN- để tạo tính từ trái nghĩa",
+    "back": "*   Happy -> Unhappy; Lucky -> Unlucky; Friendly -> Unfriendly."
+  },
+  {
+    "id": "anh_46",
+    "category": "anh",
+    "front": "*   Thêm IN- hoặc IM- để tạo tính từ trái nghĩa",
+    "back": "*   Polite -> Impolite; Possible -> Impossible; Correct -> Incorrect."
+  },
+  {
+    "id": "anh_47",
+    "category": "anh",
+    "front": "*   Thêm DIS- để tạo nghĩa phủ định.",
+    "back": "*   Agree -> Disagree; Like -> Dislike; Appear -> Disappear."
+  },
+  {
+    "id": "anh_48",
+    "category": "anh",
+    "front": "*   Start / Begin = ?",
+    "back": "*   Commence / Initiate"
+  },
+  {
+    "id": "anh_49",
+    "category": "anh",
+    "front": "*   Finish / End = ?",
+    "back": "*   Complete / Conclude"
+  },
+  {
+    "id": "anh_50",
+    "category": "anh",
+    "front": "*   Important = ?",
+    "back": "*   Crucial / Essential"
+  },
+  {
+    "id": "anh_51",
+    "category": "anh",
+    "front": "*   Difficult / Hard = ?",
+    "back": "*   Challenging / Tough"
+  },
+  {
+    "id": "anh_52",
+    "category": "anh",
+    "front": "*   Very big = ?",
+    "back": "*   Huge / Enormous / Gigantic"
+  },
+  {
+    "id": "anh_53",
+    "category": "anh",
+    "front": "*   Very small = ?",
+    "back": "*   Tiny / Minute"
+  },
+  {
+    "id": "anh_54",
+    "category": "anh",
+    "front": "*   Harmful = ?",
+    "back": "*   Damaging / Detrimental. (Opposite: Harmless)"
+  },
+  {
+    "id": "anh_55",
+    "category": "anh",
+    "front": "*   Fix / Repair = ?",
+    "back": "*   Mend"
+  },
+  {
+    "id": "anh_56",
+    "category": "anh",
+    "front": "*   Happen / Occur = ?",
+    "back": "*   Take place"
+  },
+  {
+    "id": "anh_57",
+    "category": "anh",
+    "front": "*   Look for = ?",
+    "back": "*   Search / Seek"
+  },
+  {
+    "id": "anh_58",
+    "category": "anh",
+    "front": "*   Look after",
+    "back": "*   Chăm sóc (= Take care of)."
+  },
+  {
+    "id": "anh_59",
+    "category": "anh",
+    "front": "*   Take off",
+    "back": "*   Cất cánh (Máy bay) / Cởi ra (Quần áo)."
+  },
+  {
+    "id": "anh_60",
+    "category": "anh",
+    "front": "*   Turn on / Turn off",
+    "back": "*   Bật / Tắt (Tivi, đèn, quạt)."
+  },
+  {
+    "id": "anh_61",
+    "category": "anh",
+    "front": "*   Put on",
+    "back": "*   Mặc vào (Quần áo) / Tăng cân (Put on weight)."
+  },
+  {
+    "id": "anh_62",
+    "category": "anh",
+    "front": "*   Give up",
+    "back": "*   Từ bỏ (Ví dụ: give up smoking)."
+  },
+  {
+    "id": "anh_63",
+    "category": "anh",
+    "front": "*   Go on",
+    "back": "*   Tiếp tục (= Continue)."
+  },
+  {
+    "id": "anh_64",
+    "category": "anh",
+    "front": "*   Find out",
+    "back": "*   Tìm ra, phát hiện ra (thông tin)."
+  },
+  {
+    "id": "anh_65",
+    "category": "anh",
+    "front": "*   Chủ đề Môi trường (Environment): Deforestation",
+    "back": "*   Sự phá rừng, chặt phá rừng."
+  },
+  {
+    "id": "anh_66",
+    "category": "anh",
+    "front": "*   Chủ đề Môi trường: Global Warming",
+    "back": "*   Hiện tượng nóng lên toàn cầu."
+  },
+  {
+    "id": "anh_67",
+    "category": "anh",
+    "front": "*   Chủ đề Sức khỏe (Health): Disease / Illness",
+    "back": "*   Dịch bệnh / Căn bệnh."
+  },
+  {
+    "id": "anh_68",
+    "category": "anh",
+    "front": "*   Chủ đề Sức khỏe: Medicine / Pill",
+    "back": "*   Thuốc / Viên thuốc."
+  },
+  {
+    "id": "anh_69",
+    "category": "anh",
+    "front": "*   Chủ đề Giao thông: Traffic jam",
+    "back": "*   Tắc đường, kẹt xe."
+  },
+  {
+    "id": "anh_70",
+    "category": "anh",
+    "front": "*   Chủ đề Giao thông: Pedestrian",
+    "back": "*   Người đi bộ (Pedestrian crossing: vạch kẻ đường cho người đi bộ)."
+  },
+  {
+    "id": "anh_71",
+    "category": "anh",
+    "front": "*   Chủ đề Giáo dục (Education): Scholarship",
+    "back": "*   Học bổng."
+  },
+  {
+    "id": "anh_72",
+    "category": "anh",
+    "front": "*   Chủ đề Giáo dục: Semester / Term",
+    "back": "*   Học kỳ."
+  },
+  {
+    "id": "anh_73",
+    "category": "anh",
+    "front": "*   Cảm xúc (Emotions): Disappointed",
+    "back": "*   Thất vọng."
+  },
+  {
+    "id": "anh_74",
+    "category": "anh",
+    "front": "*   Cảm xúc: Excited vs Exciting",
+    "back": "*   Excited: Cảm giác (người) hào hứng. Exciting: Tính chất (vật/sự việc) thú vị."
+  },
+  {
+    "id": "anh_75",
+    "category": "anh",
+    "front": "*   Cảm xúc: Bored vs Boring",
+    "back": "*   Bored: Bị chán chường. Boring: Tẻ nhạt."
+  },
+  {
+    "id": "anh_76",
+    "category": "anh",
+    "front": "*   Quiet / Quite",
+    "back": "*   Quiet: Yên lặng. Quite: Khá (mức độ)."
+  },
+  {
+    "id": "anh_77",
+    "category": "anh",
+    "front": "*   Desert / Dessert",
+    "back": "*   Desert: Sa mạc. Dessert: Món tráng miệng."
+  },
+  {
+    "id": "anh_78",
+    "category": "anh",
+    "front": "*   Advise (v) / Advice (n)",
+    "back": "*   Advise: Động từ Khuyên. Advice: Danh từ Lời khuyên (không đếm được, ko có \"s\")."
+  },
+  {
+    "id": "anh_79",
+    "category": "anh",
+    "front": "*   Specially / Especially",
+    "back": "*   Specially: Riêng biệt, cho 1 mục đích cụ thể. Especially: Đặc biệt là."
+  },
+  {
+    "id": "anh_80",
+    "category": "anh",
+    "front": "*   Beside / Besides",
+    "back": "*   Beside: Bên cạnh (Next to). Besides: Ngoài ra."
+  },
+  {
+    "id": "anh_81",
+    "category": "anh",
+    "front": "*   Do homework / Do housework / Do martial arts",
+    "back": "*   Làm bài tập / Làm việc nhà / Tập võ nghệ. (Dùng DO, không dùng MAKE)."
+  },
+  {
+    "id": "anh_82",
+    "category": "anh",
+    "front": "*   Make a mistake / Make a decision",
+    "back": "*   Phạm sai lầm / Đưa ra quyết định."
+  },
+  {
+    "id": "anh_83",
+    "category": "anh",
+    "front": "*   Have a cold / Have breakfast",
+    "back": "*   Bị cảm / Ăn sáng."
+  },
+  {
+    "id": "anh_84",
+    "category": "anh",
+    "front": "*   Take an exam / Take part in (Participate in)",
+    "back": "*   Tham dự kỳ thi / Tham gia vào."
+  },
+  {
+    "id": "anh_85",
+    "category": "anh",
+    "front": "*   Pay attention to...",
+    "back": "*   Chú ý đến..."
+  },
+  {
+    "id": "anh_86",
+    "category": "anh",
+    "front": "*   Tình huống: \"Congratulations!\"",
+    "back": "*   Đáp lại: \"Thank you / Thanks a lot.\""
+  },
+  {
+    "id": "anh_87",
+    "category": "anh",
+    "front": "*   Lời mời: \"How about going to the zoo?\"",
+    "back": "*   Đồng ý: \"That's a good idea / I'd love to.\" - Từ chối: \"I'm sorry, I can't.\""
+  },
+  {
+    "id": "anh_88",
+    "category": "anh",
+    "front": "*   Xin lỗi: \"I'm sorry I'm late.\"",
+    "back": "*   Trả lời: \"That's alright / Never mind / No problem.\""
+  },
+  {
+    "id": "anh_89",
+    "category": "anh",
+    "front": "*   Hỏi ý kiến: \"What do you think about...?\"",
+    "back": "*   Trả lời: \"In my opinion,... / I think...\""
+  },
+  {
+    "id": "anh_90",
+    "category": "anh",
+    "front": "*   Tình huống trong nhà hàng: \"Are you ready to order?\"",
+    "back": "*   Trả lời: \"Yes, I'd like a salad, please.\""
+  },
+  {
+    "id": "anh_91",
+    "category": "anh",
+    "front": "*   Football (UK)",
+    "back": "*   Soccer (US)"
+  },
+  {
+    "id": "anh_92",
+    "category": "anh",
+    "front": "*   Biscuit (UK)",
+    "back": "*   Cookie (US)"
+  },
+  {
+    "id": "anh_93",
+    "category": "anh",
+    "front": "*   Flat (UK)",
+    "back": "*   Apartment (US)"
+  },
+  {
+    "id": "anh_94",
+    "category": "anh",
+    "front": "*   Lift (UK)",
+    "back": "*   Elevator (US)"
+  },
+  {
+    "id": "anh_95",
+    "category": "anh",
+    "front": "*   Chips (UK)",
+    "back": "*   French fries (US)"
+  },
+  {
+    "id": "anh_96",
+    "category": "anh",
+    "front": "*   Not only... but also...",
+    "back": "*   Không những... mà còn... (*She is not only smart but also beautiful.*)"
+  },
+  {
+    "id": "anh_97",
+    "category": "anh",
+    "front": "*   Both... and...",
+    "back": "*   Cả A và B. (Động từ chia số nhiều)."
+  },
+  {
+    "id": "anh_98",
+    "category": "anh",
+    "front": "*   Neither... nor...",
+    "back": "*   Không A cũng không B. (Động từ chia theo chủ ngữ gần nhất)."
+  },
+  {
+    "id": "anh_99",
+    "category": "anh",
+    "front": "*   Either... or...",
+    "back": "*   Hoặc A hoặc B."
+  },
+  {
+    "id": "anh_100",
+    "category": "anh",
+    "front": "*   Would rather... than...",
+    "back": "*   Thích làm gì hơn làm gì. (*I would rather STAY at home THAN GO out.* => bằng với: *I PREFER staying at home TO going out.*)"
+  },
+  {
+    "id": "viet_1",
+    "category": "viet",
+    "front": "*   Khái niệm So sánh",
+    "back": "*   Đối chiếu sự vật, sự việc này với sự vật, sự việc khác có nét tương đồng để tăng sức gợi hình, gợi cảm."
+  },
+  {
+    "id": "viet_2",
+    "category": "viet",
+    "front": "*   Các từ ngữ dùng để so sánh",
+    "back": "*   như, là, tựa như, giống như, hệt như, bao nhiêu... bấy nhiêu, chẳng bằng."
+  },
+  {
+    "id": "viet_3",
+    "category": "viet",
+    "front": "*   Tác dụng của So sánh trong thơ văn",
+    "back": "*   Giúp sự vật trở nên sinh động, cụ thể, dễ hình dung; thể hiện tình cảm, thái độ của tác giả."
+  },
+  {
+    "id": "viet_4",
+    "category": "viet",
+    "front": "*   Phân loại So sánh",
+    "back": "*   So sánh ngang bằng (như, là) và So sánh không ngang bằng (hơn, kém, chẳng bằng)."
+  },
+  {
+    "id": "viet_5",
+    "category": "viet",
+    "front": "*   Khái niệm Nhân hóa",
+    "back": "*   Dùng những từ chỉ hoạt động, tính cách, suy nghĩ, tên gọi của NGƯỜI để tả CON VẬT, CÂY CỐI, SỰ VẬT."
+  },
+  {
+    "id": "viet_6",
+    "category": "viet",
+    "front": "*   Cách nhân hóa 1: Gọi sự vật bằng từ xưng hô của người",
+    "back": "*   Ông mặt trời, Chị ong nâu, Cô lúa, Bác giun..."
+  },
+  {
+    "id": "viet_7",
+    "category": "viet",
+    "front": "*   Cách nhân hóa 2: Dùng từ chỉ h/động, tính chất của người",
+    "back": "*   Dòng sông \"thì thầm\", Hàng cây \"rì rào trò chuyện\", Gió \"tức giận\"."
+  },
+  {
+    "id": "viet_8",
+    "category": "viet",
+    "front": "*   Cách nhân hóa 3: Trò chuyện với vật như với người",
+    "back": "*   \"Trâu ơi ta bảo trâu này / Trâu ra ngoài ruộng trâu cày với ta\"."
+  },
+  {
+    "id": "viet_9",
+    "category": "viet",
+    "front": "*   Tác dụng của Nhân hóa",
+    "back": "*   Làm cho vật vô tri trở nên có hồn, gần gũi với con người, biểu đạt tình cảm sâu sắc."
+  },
+  {
+    "id": "viet_10",
+    "category": "viet",
+    "front": "*   Khái niệm Điệp ngữ / Điệp từ",
+    "back": "*   Lặp lại một từ, một cụm từ hoặc cấu trúc câu nhiều lần."
+  },
+  {
+    "id": "viet_11",
+    "category": "viet",
+    "front": "*   Tác dụng của Điệp ngữ",
+    "back": "*   Nhấn mạnh ý, gây sự chú ý, tạo nhịp điệu uyển chuyển hoặc hào hùng cho câu thơ / câu văn."
+  },
+  {
+    "id": "viet_12",
+    "category": "viet",
+    "front": "*   Ví dụ điển hình của Điệp ngữ",
+    "back": "*   \"Học, học nữa, học mãi\"; \"Tre xanh, xanh tự bao giờ\"."
+  },
+  {
+    "id": "viet_13",
+    "category": "viet",
+    "front": "*   Khái niệm Ẩn dụ",
+    "back": "*   Gọi tên sự vật này bằng tên sự vật khác có nét TƯƠNG ĐỒNG (Thường được xem là So sánh ngầm)."
+  },
+  {
+    "id": "viet_14",
+    "category": "viet",
+    "front": "*   Ví dụ Ẩn dụ",
+    "back": "*   \"Người Cha mái tóc bạc\" (Người Cha ám chỉ Bác Hồ). \"Thuyền về có nhớ bến chăng\" (Thuyền chỉ người đi xa, bến chỉ người ở lại)."
+  },
+  {
+    "id": "viet_15",
+    "category": "viet",
+    "front": "*   Khái niệm Hoán dụ",
+    "back": "*   Gọi tên sự vật bằng tên một Bộ phận / Dấu hiệu liên quan TRỰC TIẾP đến sự vật đó để tăng tính gợi hình."
+  },
+  {
+    "id": "viet_16",
+    "category": "viet",
+    "front": "*   Ví dụ Hoán dụ",
+    "back": "*   \"Áo chàm đưa buổi phân li\" (Áo chàm chỉ người dân Việt Bắc), \"Bàn tay ta làm nên tất cả\" (Bàn tay chỉ sức lao động con người)."
+  },
+  {
+    "id": "viet_17",
+    "category": "viet",
+    "front": "*   Cấu trúc bài văn Cảm thụ một đoạn thơ",
+    "back": "*   1. Giới thiệu nét chính. 2. Chỉ ra biện pháp tu từ / từ ngữ đắt giá. 3. Phân tích tác dụng của chúng. 4. Nêu tình cảm của tác giả."
+  },
+  {
+    "id": "viet_18",
+    "category": "viet",
+    "front": "*   Khi phân tích từ \"mồ hôi\" trong \"Mồ hôi mẹ rơi má em\"",
+    "back": "*   Gợi sự vất vả, lam lũ, tình yêu thương vô bờ bến của mẹ dành cho con."
+  },
+  {
+    "id": "viet_19",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Đơn",
+    "back": "*   Từ chỉ gồm một tiếng có nghĩa (VD: nhà, xe, hoa, đẹp)."
+  },
+  {
+    "id": "viet_20",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Phức",
+    "back": "*   Từ gồm 2 hoặc nhiều tiếng tạo thành (VD: học sinh, sạch sẽ). Từ phức chia làm: Từ ghép và Từ láy."
+  },
+  {
+    "id": "viet_21",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Ghép",
+    "back": "*   Các tiếng ghép lại với nhau CÓ quan hệ về NGHĨA."
+  },
+  {
+    "id": "viet_22",
+    "category": "viet",
+    "front": "*   Từ ghép Tổng hợp",
+    "back": "*   Nghĩa bao quát chung (VD: quần áo, nhà cửa, xe cộ)."
+  },
+  {
+    "id": "viet_23",
+    "category": "viet",
+    "front": "*   Từ ghép Phân loại",
+    "back": "*   Nghĩa cụ thể hóa (VD: quần đùi, xe đạp, nhà ngói)."
+  },
+  {
+    "id": "viet_24",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Láy",
+    "back": "*   Các tiếng ghép lại CÓ quan hệ về ÂM (lặp âm đầu, lặp vần). Thường chỉ 1 tiếng có nghĩa gốc."
+  },
+  {
+    "id": "viet_25",
+    "category": "viet",
+    "front": "*   Láy hoàn toàn",
+    "back": "*   Các tiếng lặp lại y hệt nhau (VD: xa xa, ào ào, rào rào)."
+  },
+  {
+    "id": "viet_26",
+    "category": "viet",
+    "front": "*   Láy bộ phận (Âm đầu, Vần)",
+    "back": "*   Láy âm: Mênh mông, tròn trĩnh. Láy vần: Lôi thôi, lác đác."
+  },
+  {
+    "id": "viet_27",
+    "category": "viet",
+    "front": "*   Mẹo phân biệt Từ ghép và Từ láy khi có lặp âm",
+    "back": "*   Nếu cả 2 tiếng ĐỀU CÓ NGHĨA rõ ràng, đó là từ ghép. Ví dụ: Tươi tốt (Ghép) chứ không phải Láy."
+  },
+  {
+    "id": "viet_28",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Đồng nghĩa",
+    "back": "*   Những từ có nghĩa giống nhau hoặc gần giống nhau. VD: hi sinh, bỏ mạng, qua đời, mất, ngủ (giấc ngàn thu)."
+  },
+  {
+    "id": "viet_29",
+    "category": "viet",
+    "front": "*   Đồng nghĩa hoàn toàn / Không hoàn toàn",
+    "back": "*   Hoàn toàn: Quả - Trái; Heo - Lợn. Khôn hoàn toàn: Chết (Bình thường), Hi sinh (Tôn trọng), Bỏ mạng (Khinh bỉ)."
+  },
+  {
+    "id": "viet_30",
+    "category": "viet",
+    "front": "*   Cặp từ trái nghĩa thông dụng",
+    "back": "*   Cao - Thấp; Sáng - Tối; Vui - Buồn; Chăm chỉ - Lười biếng."
+  },
+  {
+    "id": "viet_31",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Đồng âm",
+    "back": "*   Những từ Âm đọc và Viết CÙNG NHƯ NHAU nhưng NGHĨA hoàn toàn khác nhau. VD: Con \"đường\" (đi lại) - Kí \"đường\" (đồ ăn)."
+  },
+  {
+    "id": "viet_32",
+    "category": "viet",
+    "front": "*   Khái niệm Từ Nhiều nghĩa",
+    "back": "*   Từ có 1 nghĩa gốc và nhiều nghĩa chuyển (có mối liên hệ với nghĩa gốc)."
+  },
+  {
+    "id": "viet_33",
+    "category": "viet",
+    "front": "*   Phân biệt Từ Nhiều nghĩa với Từ Đồng âm",
+    "back": "*   Nghĩa của Từ Nhiều nghĩa CÓ LIÊN QUAN đến nhau (VD: Mắt người, mắt dứa, mắt lưới -> đều chỉ một lỗ tròn/cái chấm). Từ Đồng âm KHÔNG LIÊN QUAN gì nhau."
+  },
+  {
+    "id": "viet_34",
+    "category": "viet",
+    "front": "*   Danh từ",
+    "back": "*   Từ chỉ sự vật: Người, vật, hiện tượng, khái niệm, đơn vị. (VD: học sinh, bàn, mưa, vẻ đẹp, cái)."
+  },
+  {
+    "id": "viet_35",
+    "category": "viet",
+    "front": "*   Danh từ chung / Danh từ riêng",
+    "back": "*   Chung: Tên một loại sự vật (sông, núi, người). Riêng: Tên riêng (Sài Gòn, sông Hồng) -> Phải viết hoa."
+  },
+  {
+    "id": "viet_36",
+    "category": "viet",
+    "front": "*   Động từ",
+    "back": "*   Từ chỉ hoạt động, trạng thái của sự vật. (VD: chay, nhảy, vui, buồn, rơi, vỡ)."
+  },
+  {
+    "id": "viet_37",
+    "category": "viet",
+    "front": "*   Tính từ",
+    "back": "*   Từ miêu tả đặc điểm, tính chất của sự vật, hoạt động, trạng thái. (VD: xanh, đỏ, đẹp, cao, hư hỏng)."
+  },
+  {
+    "id": "viet_38",
+    "category": "viet",
+    "front": "*   Đại từ",
+    "back": "*   Từ dùng để thay thế (tránh lặp từ), dùng xưng hô hoặc hỏi. (VD: tôi, bạn, nó, thế nào, bao nhiêu)."
+  },
+  {
+    "id": "viet_39",
+    "category": "viet",
+    "front": "*   Quan hệ từ",
+    "back": "*   Nối các từ ngữ hoặc câu với nhau, biểu thị ý nghĩa. (VD: và, với, hay, hoặc, nhưng, của)."
+  },
+  {
+    "id": "viet_40",
+    "category": "viet",
+    "front": "*   Cặp quan hệ từ chỉ Nguyên nhân - Kết quả",
+    "back": "*   Vì... nên; Do... nên; Nhờ... mà..."
+  },
+  {
+    "id": "viet_41",
+    "category": "viet",
+    "front": "*   Cặp quan hệ từ chỉ Giả thiết / Điều kiện - Kết quả",
+    "back": "*   Nếu... thì; Hễ... thì; Giá như... thì."
+  },
+  {
+    "id": "viet_42",
+    "category": "viet",
+    "front": "*   Cặp quan hệ từ chỉ Nhượng bộ - Chuyển ý",
+    "back": "*   Tuy... nhưng; Mặc dù... nhưng..."
+  },
+  {
+    "id": "viet_43",
+    "category": "viet",
+    "front": "*   Cặp quan hệ từ chỉ Tăng tiến",
+    "back": "*   Không những... mà còn; Càng... càng..."
+  },
+  {
+    "id": "viet_44",
+    "category": "viet",
+    "front": "*   Chủ ngữ (CN)",
+    "back": "*   Nêu tên sự vật/hiện tượng. Trả lời câu hỏi: Ai? Con gì? Cái gì?"
+  },
+  {
+    "id": "viet_45",
+    "category": "viet",
+    "front": "*   Vị ngữ (VN)",
+    "back": "*   Nêu hoạt động/tính chất của CN. Trả lời: Làm gì? Là gì? Như thế nào?"
+  },
+  {
+    "id": "viet_46",
+    "category": "viet",
+    "front": "*   Trạng ngữ (TN)",
+    "back": "*   Thành phần phụ đứng ngay đầu câu hoặc cuối câu, ngăn cách bằng dấu phẩy. TN chỉ: Thời gian, Nơi chốn, Mục đích, Nguyên nhân."
+  },
+  {
+    "id": "viet_47",
+    "category": "viet",
+    "front": "*   Trạng ngữ chỉ Nguyên nhân",
+    "back": "*   Trả lời: Vì sao? Nhờ đâu? Tại đâu?. (VD: \"Vì mưa lớn,...\" => Trạng ngữ nguyên nhân)"
+  },
+  {
+    "id": "viet_48",
+    "category": "viet",
+    "front": "*   Câu \"Ai là gì?\"",
+    "back": "*   Dùng để Định nghĩa hoặc Giới thiệu. Vị ngữ thường bắt đầu bằng chữ \"LÀ\". (VD: Mẹ em là giáo viên)."
+  },
+  {
+    "id": "viet_49",
+    "category": "viet",
+    "front": "*   Câu \"Ai làm gì?\"",
+    "back": "*   Dùng để Kể hoạt động. Vị ngữ chứa Động từ chỉ hoạt động. (VD: Con mèo đang bắt chuột)."
+  },
+  {
+    "id": "viet_50",
+    "category": "viet",
+    "front": "*   Câu \"Ai thế nào?\"",
+    "back": "*   Dùng để miêu tả. Vị ngữ chứa Tính từ hoặc Động từ chỉ trạng thái. (VD: Cô giáo em rất hiền)."
+  },
+  {
+    "id": "viet_51",
+    "category": "viet",
+    "front": "*   Câu đơn",
+    "back": "*   Cấu tạo chỉ có ONE cụm Chủ - Vị (1 CN và 1 VN)."
+  },
+  {
+    "id": "viet_52",
+    "category": "viet",
+    "front": "*   Câu ghép",
+    "back": "*   Cấu tạo bởi 2 hay nhiều vế câu ghép lại. (Mỗi vế câu là 1 cụm Chủ - Vị đầy đủ)."
+  },
+  {
+    "id": "viet_53",
+    "category": "viet",
+    "front": "*   Cách nối các vế câu ghép",
+    "back": "*   Nối trực tiếp bằng dấu phẩy (,), dấu chấm phẩy (;). Hoặc nối bằng Quan hệ từ (cặp quan hệ từ)."
+  },
+  {
+    "id": "viet_54",
+    "category": "viet",
+    "front": "*   Tác dụng của Dấu Phẩy (,)",
+    "back": "*   1. Ngăn cách Trạng ngữ với CN-VN. 2. Ngăn cách các từ cùng loại trong cụm. 3. Ngăn cách 2 vế câu ghép."
+  },
+  {
+    "id": "viet_55",
+    "category": "viet",
+    "front": "*   Tác dụng của Dấu Ngoặc Kép (\" \")",
+    "back": "*   1. Trích lời nói trực tiếp. 2. Đánh dấu từ được dùng với ý nghĩa đặc biệt (hoặc dí dỏm/mỉa mai)."
+  },
+  {
+    "id": "viet_56",
+    "category": "viet",
+    "front": "*   Tác dụng của Dấu Gạch Ngang (—)",
+    "back": "*   1. Bắt đầu lời thoại nhân vật. 2. Phần chú thích trong câu. 3. Liệt kê các danh mục."
+  },
+  {
+    "id": "viet_57",
+    "category": "viet",
+    "front": "*   Tác dụng của Dấu Hai Chấm (:)",
+    "back": "*   1. Báo hiệu phần giải thích, thuyết minh cho phần trước đo. 2. Báo hiệu lời dẫn trực tiếp (đi kèm ngoặc kép/gạch ngang)."
+  },
+  {
+    "id": "viet_58",
+    "category": "viet",
+    "front": "*   Dạng bài: Cho tựa đề 1 đoạn văn.",
+    "back": "*   Đọc kỹ câu đầu tiên và câu cuối cùng (thường chứa nội dung khái quát: câu chủ đề). Tựa đề phải thật Nhanh, Gọn, Xuyên suốt."
+  },
+  {
+    "id": "viet_59",
+    "category": "viet",
+    "front": "*   Dạng bài: Xác định Chủ đề của bài.",
+    "back": "*   Trả lời câu hỏi: Đoạn / Bài viết về \"Ai / Cái gì\"? Ở đoạn/bài trên nhắc đến \"Cái gì\" nhiều nhất?"
+  },
+  {
+    "id": "viet_60",
+    "category": "viet",
+    "front": "*   Tập làm văn Miêu tả phong cảnh",
+    "back": "*   Miêu tả theo trình tự: Thời gian (sáng-trưa-chiều) => Không gian (từ xa xa -> lại gần -> chi tiết). Kết bài phải có cảm xúc, liên hệ."
+  },
+  {
+    "id": "viet_61",
+    "category": "viet",
+    "front": "*   Viết Đoạn văn Nghị luận xã hội ngắn",
+    "back": "*   1. Giới thiệu vấn đề (Mở) -> 2. Giải thích -> 3. Phân tích lợi hại/Biểu hiện -> 4. Bài học hành động bản thân (Kết)."
+  },
+  {
+    "id": "viet_62",
+    "category": "viet",
+    "front": "*   Khi bài yêu cầu Nêu nội dung đoạn thơ/văn.",
+    "back": "*   Trả lời bằng CÂU HOÀN CHỈNH. \"Nội dung của đoạn thơ là ca ngợi sự hi sinh của người lính...\". Tuyệt đối không viết gạch đầu dòng."
+  },
+  {
+    "id": "viet_63",
+    "category": "viet",
+    "front": "*   Thành ngữ \"Uống nước nhớ nguồn\"",
+    "back": "*   Lòng biết ơn đối với người đi trước đã tạo ra thành quả cho thế hệ sau."
+  },
+  {
+    "id": "viet_64",
+    "category": "viet",
+    "front": "*   \"Có công mài sắt, có ngày nên kim\"",
+    "back": "*   Khuyên con người phải kiên trì, nhẫn nại thì rốt cuộc sẽ thành công."
+  },
+  {
+    "id": "viet_65",
+    "category": "viet",
+    "front": "*   \"Ếch ngồi đáy giếng\"",
+    "back": "*   Phê phán những người hiểu biết hạn hẹp nhưng lại bảo thủ, tự cao tự đại."
+  },
+  {
+    "id": "viet_66",
+    "category": "viet",
+    "front": "*   \"Tôn sư trọng đạo\"",
+    "back": "*   Kính trọng thầy giáo, cô giáo và coi trọng việc học, đạo lý làm người."
+  },
+  {
+    "id": "viet_67",
+    "category": "viet",
+    "front": "*   \"Lá lành đùm lá rách\"",
+    "back": "*   Thể hiện tinh thần tương thân tương ái, người có điều kiện giúp đỡ người gặp khó khăn hoạn nạn."
+  },
+  {
+    "id": "viet_68",
+    "category": "viet",
+    "front": "*   \"Một cây làm chẳng nên non / Ba cây chụm lại nên hòn núi cao\"",
+    "back": "*   Sức mạnh của tinh thần đoàn kết, tập thể."
+  },
+  {
+    "id": "viet_69",
+    "category": "viet",
+    "front": "*   \"Nhường cơm sẻ áo\"",
+    "back": "*   Giúp đỡ nhau trong hoàn cảnh khó khăn thiếu thốn."
+  },
+  {
+    "id": "viet_70",
+    "category": "viet",
+    "front": "*   \"Lời chào cao hơn mâm cỗ\"",
+    "back": "*   Đề cao sự lễ phép, lịch sự trong giao tiếp hơn là giá trị vật chất quy đổi."
+  },
+  {
+    "id": "viet_71",
+    "category": "viet",
+    "front": "*   \"Giấy rách phải giữ lấy lề\"",
+    "back": "*   Dù khó khăn, nghèo khổ vẫn phải giữ gìn nhân cách, danh dự, sự trong sạch."
+  },
+  {
+    "id": "viet_72",
+    "category": "viet",
+    "front": "*   \"Có tật giật mình\"",
+    "back": "*   Làm việc khuất tất, làm sai nên khi có ai nhắc đến đều chột dạ sợ bị phát hiện."
+  },
+  {
+    "id": "viet_73",
+    "category": "viet",
+    "front": "*   \"Học một biết mười\"",
+    "back": "*   Khen sự thông minh, lanh lợi, tự suy luận mở rộng vấn đề một cách tài giỏi."
+  },
+  {
+    "id": "khoahoc_1",
+    "category": "khoahoc",
+    "front": "*   Photosynthesis (Quang hợp)",
+    "back": "*   Plants use SUNLIGHT, CARBON DIOXIDE, and WATER to make food and OXYGEN."
+  },
+  {
+    "id": "khoahoc_2",
+    "category": "khoahoc",
+    "front": "*   Chlorophyll (Diệp lục)",
+    "back": "*   The green substance in leaves that catches sunlight."
+  },
+  {
+    "id": "khoahoc_3",
+    "category": "khoahoc",
+    "front": "*   Parts of a plant & Functions",
+    "back": "*   Roots (absorb water), Stem (support & transport), Leaves (make food), Flowers (reproduce)."
+  },
+  {
+    "id": "khoahoc_4",
+    "category": "khoahoc",
+    "front": "*   Germination (Nảy mầm)",
+    "back": "*   The process when a seed grows into a plant (Needs: water, warmth, oxygen. *NOT sunlight*)."
+  },
+  {
+    "id": "khoahoc_5",
+    "category": "khoahoc",
+    "front": "*   Dispersal of seeds (Phát tán hạt)",
+    "back": "*   By wind (Dandelion), by water (Coconut), by animals (burrs, eaten fruits)."
+  },
+  {
+    "id": "khoahoc_6",
+    "category": "khoahoc",
+    "front": "*   Food chain (Chuỗi thức ăn)",
+    "back": "*   Shows how energy passes from one living thing to another. Always starts with a PRODUCER."
+  },
+  {
+    "id": "khoahoc_7",
+    "category": "khoahoc",
+    "front": "*   Producer / Consumer / Decomposer",
+    "back": "*   Producer (Plants - make own food). Consumer (Animals - eat others). Decomposer (Fungi/Bacteria - break down dead things)."
+  },
+  {
+    "id": "khoahoc_8",
+    "category": "khoahoc",
+    "front": "*   Herbivore / Carnivore / Omnivore",
+    "back": "*   Herbivore: eats plants. Carnivore: eats meat. Omnivore: eats both (Humans, bears)."
+  },
+  {
+    "id": "khoahoc_9",
+    "category": "khoahoc",
+    "front": "*   Predator / Prey",
+    "back": "*   Predator (Kẻ săn mồi): Hunts other animals. Prey (Con mồi): Is hunted."
+  },
+  {
+    "id": "khoahoc_10",
+    "category": "khoahoc",
+    "front": "*   Animal Classification: Mammals (Động vật có vú)",
+    "back": "*   Warm-blooded, have hair/fur, give birth to live young (except platypus), produce milk. (e.g., Bat, Whale, Human)."
+  },
+  {
+    "id": "khoahoc_11",
+    "category": "khoahoc",
+    "front": "*   Reptiles vs Amphibians (Bò sát vs Lưỡng cư)",
+    "back": "*   Reptiles (Snake, Turtle): Dry scaly skin, lay eggs on land. Amphibians (Frog): Moist skin, lay eggs in water, live in both water & land."
+  },
+  {
+    "id": "khoahoc_12",
+    "category": "khoahoc",
+    "front": "*   Insects (Côn trùng)",
+    "back": "*   Have 6 legs, 3 body parts (head, thorax, abdomen). (e.g., Ant, Mosquito. *Spider is NOT an insect, it has 8 legs*)."
+  },
+  {
+    "id": "khoahoc_13",
+    "category": "khoahoc",
+    "front": "*   Metamorphosis (Biến thái)",
+    "back": "*   The life cycle change. (Frog: Egg -> Tadpole -> Frog). (Butterfly: Egg -> Caterpillar/Larva -> Pupa/Chrysalis -> Butterfly)."
+  },
+  {
+    "id": "khoahoc_14",
+    "category": "khoahoc",
+    "front": "*   Heart & Blood vessels",
+    "back": "*   Heart pumps blood. Arteries carry oxygen-rich blood away. Veins carry blood back to heart."
+  },
+  {
+    "id": "khoahoc_15",
+    "category": "khoahoc",
+    "front": "*   Lungs (Phổi) / Respiratory system",
+    "back": "*   Take in OXYGEN, breathe out CARBON DIOXIDE."
+  },
+  {
+    "id": "khoahoc_16",
+    "category": "khoahoc",
+    "front": "*   Digestive system (Hệ tiêu hóa)",
+    "back": "*   Mouth (chew) -> Esophagus -> Stomach (digest) -> Small Intestine (absorb nutrients) -> Large Intestine."
+  },
+  {
+    "id": "khoahoc_17",
+    "category": "khoahoc",
+    "front": "*   Skeleton (Bộ xương)",
+    "back": "*   Protects organs (Skull protects brain, Ribs protect heart). Supports the body."
+  },
+  {
+    "id": "khoahoc_18",
+    "category": "khoahoc",
+    "front": "*   Brain & Nervous system",
+    "back": "*   Controls all body activities. Messages travel through Nerves."
+  },
+  {
+    "id": "khoahoc_19",
+    "category": "khoahoc",
+    "front": "*   Teeth",
+    "back": "*   Incisors (cut), Canines (tear), Molars (grind). Children have 20 primary teeth; adults have 32 permanent teeth."
+  },
+  {
+    "id": "khoahoc_20",
+    "category": "khoahoc",
+    "front": "*   Five senses (5 Giác quan)",
+    "back": "*   Sight (Eyes), Hearing (Ears), Smell (Nose), Taste (Tongue), Touch (Skin)."
+  },
+  {
+    "id": "khoahoc_21",
+    "category": "khoahoc",
+    "front": "*   Three states of matter (3 Trạng thái vật chất)",
+    "back": "*   Solid (fixed shape), Liquid (takes shape of container), Gas (fills container)."
+  },
+  {
+    "id": "khoahoc_22",
+    "category": "khoahoc",
+    "front": "*   Changes of state: Melting & Freezing",
+    "back": "*   Melting: Solid -> Liquid. Freezing: Liquid -> Solid. (Water freezes at 0°C)."
+  },
+  {
+    "id": "khoahoc_23",
+    "category": "khoahoc",
+    "front": "*   Changes of state: Evaporation & Condensation",
+    "back": "*   Evap: Liquid -> Gas (boiling at 100°C). Condens: Gas -> Liquid (clouds form)."
+  },
+  {
+    "id": "khoahoc_24",
+    "category": "khoahoc",
+    "front": "*   Solutions (Dung dịch)",
+    "back": "*   Solute (Chất tan: Sugar) + Solvent (Dung môi: Water) = Solution (Sugary water)."
+  },
+  {
+    "id": "khoahoc_25",
+    "category": "khoahoc",
+    "front": "*   Magnet (Nam châm)",
+    "back": "*   Attracts magnetic metals (Iron, Nickel, Cobalt, Steel). *Does NOT attract Copper, Aluminum, or Gold.*"
+  },
+  {
+    "id": "khoahoc_26",
+    "category": "khoahoc",
+    "front": "*   Magnetic poles",
+    "back": "*   North (N) and South (S). Like poles REPEL (đẩy). Opposite poles ATTRACT (hút)."
+  },
+  {
+    "id": "khoahoc_27",
+    "category": "khoahoc",
+    "front": "*   Gravity (Trọng lực)",
+    "back": "*   The pulling force of the Earth. Makes things fall down."
+  },
+  {
+    "id": "khoahoc_28",
+    "category": "khoahoc",
+    "front": "*   Friction (Lực ma sát)",
+    "back": "*   A force that slows things down when two surfaces rub together. (Useful for walking; bad for machines)."
+  },
+  {
+    "id": "khoahoc_29",
+    "category": "khoahoc",
+    "front": "*   Conductors & Insulators (Electricity/Heat)",
+    "back": "*   Conductor (Dẫn điện/nhiệt tốt: Metals, Saltwater). Insulator (Cách điện/nhiệt: Plastic, Wood, Rubber)."
+  },
+  {
+    "id": "khoahoc_30",
+    "category": "khoahoc",
+    "front": "*   Shadow (Cái bóng)",
+    "back": "*   Formed when light is blocked by an OPAQUE (mờ đục/không xuyên thấu) object. Shadow is longest in morning/evening, shortest at noon."
+  },
+  {
+    "id": "khoahoc_31",
+    "category": "khoahoc",
+    "front": "*   Light source (Nguồn sáng)",
+    "back": "*   Things that make their own light (Sun, Stars, Fire, Lamp). *Moon is NOT a light source, it reflects sunlight.*"
+  },
+  {
+    "id": "khoahoc_32",
+    "category": "khoahoc",
+    "front": "*   Reflection of light (Phản xạ ánh sáng)",
+    "back": "*   Light bounces off a mirror or shiny surface."
+  },
+  {
+    "id": "khoahoc_33",
+    "category": "khoahoc",
+    "front": "*   Temperature & Thermometer",
+    "back": "*   Temperature measures how hot/cold. Measured in Celsius (°C). Normal body temp: 37°C."
+  },
+  {
+    "id": "khoahoc_34",
+    "category": "khoahoc",
+    "front": "*   Sound (Âm thanh)",
+    "back": "*   Made by VIBRATIONS (dao động). Travels through solid, liquid, gas. CANNOT travel in a vacuum (chân không)."
+  },
+  {
+    "id": "khoahoc_35",
+    "category": "khoahoc",
+    "front": "*   Day and Night",
+    "back": "*   Caused by the Earth SPINNING (rotating) on its axis. (Takes 24 hours)."
+  },
+  {
+    "id": "khoahoc_36",
+    "category": "khoahoc",
+    "front": "*   Seasons (Mùa)",
+    "back": "*   Caused by the Earth ORBITING the Sun and its TILTED axis. (Takes 365 1/4 days)."
+  },
+  {
+    "id": "khoahoc_37",
+    "category": "khoahoc",
+    "front": "*   Eclipse (Nhật thực / Nguyệt thực)",
+    "back": "*   Solar (Nhật thực): Sun - Moon - Earth. Lunar (Nguyệt thực): Sun - Earth - Moon."
+  },
+  {
+    "id": "khoahoc_38",
+    "category": "khoahoc",
+    "front": "*   Planets in Solar System (Thứ tự)",
+    "back": "*   My Very Educated Mother Just Served Us Noodles: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+  },
+  {
+    "id": "khoahoc_39",
+    "category": "khoahoc",
+    "front": "*   Largest & Hottest planets",
+    "back": "*   Largest: Jupiter. Hottest: Venus (due to thick atmosphere)."
+  },
+  {
+    "id": "khoahoc_40",
+    "category": "khoahoc",
+    "front": "*   Lunar Cycle",
+    "back": "*   Takes about 29.5 days. Phases: New Moon -> Crescent -> Half Moon -> Gibbous -> Full Moon."
+  },
+  {
+    "id": "khoahoc_41",
+    "category": "khoahoc",
+    "front": "*   Continents (7 Châu lục)",
+    "back": "*   Asia (largest), Africa, North America, South America, Antarctica, Europe, Australia (smallest)."
+  },
+  {
+    "id": "khoahoc_42",
+    "category": "khoahoc",
+    "front": "*   Oceans (5 Đại dương)",
+    "back": "*   Pacific (largest), Atlantic, Indian, Southern, Arctic (smallest/coldest)."
+  },
+  {
+    "id": "khoahoc_43",
+    "category": "khoahoc",
+    "front": "*   Equator (Đường xích đạo)",
+    "back": "*   The imaginary line that divides Earth into Northern and Southern Hemispheres. Very hot climate."
+  },
+  {
+    "id": "khoahoc_44",
+    "category": "khoahoc",
+    "front": "*   Highest Mountain in the world",
+    "back": "*   Mount Everest (in the Himalayas, between Nepal and China)."
+  },
+  {
+    "id": "khoahoc_45",
+    "category": "khoahoc",
+    "front": "*   Longest River in the world",
+    "back": "*   The Nile River (in Africa) / The Amazon (largest by water volume, in South America)."
+  },
+  {
+    "id": "khoahoc_46",
+    "category": "khoahoc",
+    "front": "*   Map symbols: Compass Rose",
+    "back": "*   Shows directions: North (N), East (E), South (S), West (W). *Never Eat Silly Worms.*"
+  },
+  {
+    "id": "khoahoc_47",
+    "category": "khoahoc",
+    "front": "*   Countries & Capitals (Neighbors of Vietnam)",
+    "back": "*   Laos (Vientiane), Cambodia (Phnom Penh), China (Beijing)."
+  },
+  {
+    "id": "khoahoc_48",
+    "category": "khoahoc",
+    "front": "*   Global landmarks",
+    "back": "*   Eiffel Tower (France), Statue of Liberty (USA), Great Wall (China), Pyramids (Egypt)."
+  },
+  {
+    "id": "khoahoc_49",
+    "category": "khoahoc",
+    "front": "*   Shape of Vietnam",
+    "back": "*   S-shaped, located in Southeast Asia (Đông Nam Á)."
+  },
+  {
+    "id": "khoahoc_50",
+    "category": "khoahoc",
+    "front": "*   Highest Mountain in Vietnam",
+    "back": "*   Fansipan (Known as the \"Roof of Indochina\")."
+  },
+  {
+    "id": "khoahoc_51",
+    "category": "khoahoc",
+    "front": "*   The longest river in Vietnam",
+    "back": "*   Mekong River (Sông Tiền, Sông Hậu) in the South, Red River (Sông Hồng) in the North."
+  },
+  {
+    "id": "khoahoc_52",
+    "category": "khoahoc",
+    "front": "*   Major plain in the North",
+    "back": "*   Red River Delta (Đồng bằng sông Hồng)."
+  },
+  {
+    "id": "khoahoc_53",
+    "category": "khoahoc",
+    "front": "*   Biggest island in Vietnam",
+    "back": "*   Phu Quoc Island (in Kien Giang province)."
+  },
+  {
+    "id": "khoahoc_54",
+    "category": "khoahoc",
+    "front": "*   Truong Son Mountain Range",
+    "back": "*   The longest mountain range in Vietnam, separating Vietnam and Laos."
+  },
+  {
+    "id": "khoahoc_55",
+    "category": "khoahoc",
+    "front": "*   Capital and Largest City",
+    "back": "*   Capital: Hanoi (in the North). Largest economic center: Ho Chi Minh City (in the South)."
+  },
+  {
+    "id": "khoahoc_56",
+    "category": "khoahoc",
+    "front": "*   Caves in Vietnam",
+    "back": "*   Son Doong Cave is the largest cave in the world (located in Phong Nha - Ke Bang, Quang Binh)."
+  },
+  {
+    "id": "khoahoc_57",
+    "category": "khoahoc",
+    "front": "*   UNESCO Heritages in VN",
+    "back": "*   Ha Long Bay, Hoi An Ancient Town, My Son Sanctuary, Hue Citadel."
+  },
+  {
+    "id": "khoahoc_58",
+    "category": "khoahoc",
+    "front": "*   Climate of Vietnam",
+    "back": "*   Tropical monsoon (Nhiệt đới gió mùa). South has 2 seasons: Dry and Rainy. North has 4 seasons."
+  },
+  {
+    "id": "khoahoc_59",
+    "category": "khoahoc",
+    "front": "*   Main agricultural export of VN",
+    "back": "*   Rice and Coffee."
+  },
+  {
+    "id": "khoahoc_60",
+    "category": "khoahoc",
+    "front": "*   The first nation of Vietnam",
+    "back": "*   Van Lang (founded by the Hung Kings). Symbolized by the Dong Son Bronze Drum (Trống đồng Đông Sơn)."
+  },
+  {
+    "id": "khoahoc_61",
+    "category": "khoahoc",
+    "front": "*   Legend of Origin",
+    "back": "*   Lac Long Quan & Au Co (100 eggs -> 100 children)."
+  },
+  {
+    "id": "khoahoc_62",
+    "category": "khoahoc",
+    "front": "*   Co Loa Citadel",
+    "back": "*   Built by An Duong Vuong (King of Au Lac). Legend of the Magic Crossbow (Nỏ thần)."
+  },
+  {
+    "id": "khoahoc_63",
+    "category": "khoahoc",
+    "front": "*   The Trung Sisters (Hai Bà Trưng)",
+    "back": "*   Trung Trac and Trung Nhi. Rode elephants to fight against Chinese invaders."
+  },
+  {
+    "id": "khoahoc_64",
+    "category": "khoahoc",
+    "front": "*   Ngo Quyen & Battle of Bach Dang",
+    "back": "*   938 AD. Defeated the Southern Han using iron-tipped wooden stakes in the Bach Dang river. Ended 1000 years of Chinese rule."
+  },
+  {
+    "id": "khoahoc_65",
+    "category": "khoahoc",
+    "front": "*   Dinh Bo Linh",
+    "back": "*   Defeated 12 warlords (Dẹp loạn 12 sứ quân), named the country Dai Co Viet."
+  },
+  {
+    "id": "khoahoc_66",
+    "category": "khoahoc",
+    "front": "*   Ly Thai To",
+    "back": "*   Moved the capital to Thang Long (now Hanoi) in 1010."
+  },
+  {
+    "id": "khoahoc_67",
+    "category": "khoahoc",
+    "front": "*   The first university in Vietnam",
+    "back": "*   Quoc Tu Giam (Temple of Literature), built in 1076."
+  },
+  {
+    "id": "khoahoc_68",
+    "category": "khoahoc",
+    "front": "*   General Tran Hung Dao",
+    "back": "*   Defeated the Mongol Empire (Yuan dynasty) 3 times. Associated with Dien Hong Conference."
+  },
+  {
+    "id": "khoahoc_69",
+    "category": "khoahoc",
+    "front": "*   Le Loi",
+    "back": "*   Defeated the Ming army. Legend of returning the magical sword at Hoan Kiem Lake."
+  },
+  {
+    "id": "khoahoc_70",
+    "category": "khoahoc",
+    "front": "*   King Quang Trung (Nguyen Hue)",
+    "back": "*   The hero in cloth (Anh hùng áo vải). Defeated the Qing army rapidly during Tet in 1789."
+  },
+  {
+    "id": "khoahoc_71",
+    "category": "khoahoc",
+    "front": "*   Nguyen Dynasty",
+    "back": "*   Last dynasty of Vietnam. Capital moved to Hue. Last King: Bao Dai."
+  },
+  {
+    "id": "khoahoc_72",
+    "category": "khoahoc",
+    "front": "*   September 2, 1945",
+    "back": "*   President Ho Chi Minh read the Declaration of Independence at Ba Dinh Square."
+  },
+  {
+    "id": "khoahoc_73",
+    "category": "khoahoc",
+    "front": "*   Dien Bien Phu Victory",
+    "back": "*   1954. Defeated the French colony. General Vo Nguyen Giap."
+  },
+  {
+    "id": "khoahoc_74",
+    "category": "khoahoc",
+    "front": "*   April 30, 1975",
+    "back": "*   Liberation of the South, reunification of Vietnam."
+  },
+  {
+    "id": "khoahoc_75",
+    "category": "khoahoc",
+    "front": "*   Important historical titles to match:",
+    "back": "*   Binh Dinh Vuong (Le Loi) - Nam Quoc Son Ha (Ly Thuong Kiet) - Hich tuong si (Tran Hung Dao)."
+  },
+  {
+    "id": "khoahoc_76",
+    "category": "khoahoc",
+    "front": "*   938 AD",
+    "back": "*   Battle of Bach Dang (Ngo Quyen)."
+  },
+  {
+    "id": "khoahoc_77",
+    "category": "khoahoc",
+    "front": "*   1010 AD",
+    "back": "*   Move capital to Thang Long (Ly Thai To)."
+  },
+  {
+    "id": "khoahoc_78",
+    "category": "khoahoc",
+    "front": "*   1930",
+    "back": "*   Communist Party of Vietnam founded."
+  },
+  {
+    "id": "khoahoc_79",
+    "category": "khoahoc",
+    "front": "*   May 7, 1954",
+    "back": "*   Dien Bien Phu Victory."
+  },
+  {
+    "id": "khoahoc_80",
+    "category": "khoahoc",
+    "front": "*   National flag meaning",
+    "back": "*   Red background (revolution/blood), yellow star (5 points: workers, peasants, soldiers, intellectuals, youth)."
+  },
+  {
+    "id": "khoahoc_81",
+    "category": "khoahoc",
+    "front": "*   3Rs in Environment",
+    "back": "*   Reduce (Giảm thiểu), Reuse (Tái sử dụng), Recycle (Tái chế)."
+  },
+  {
+    "id": "khoahoc_82",
+    "category": "khoahoc",
+    "front": "*   Deforestation consequences",
+    "back": "*   Leads to soil erosion (xói mòn), floods (lũ lụt), and loss of habitat for animals."
+  },
+  {
+    "id": "khoahoc_83",
+    "category": "khoahoc",
+    "front": "*   Global Warming",
+    "back": "*   Caused by Greenhouse gases (like Carbon dioxide) trapping heat inside Earth."
+  },
+  {
+    "id": "khoahoc_84",
+    "category": "khoahoc",
+    "front": "*   Air pollution causes",
+    "back": "*   Exhaust from cars, smoke from factories, burning plastic/garbage."
+  },
+  {
+    "id": "khoahoc_85",
+    "category": "khoahoc",
+    "front": "*   Renewable vs Non-renewable energy",
+    "back": "*   Renewable (Wind, Solar, Water). Non-renewable (Coal, Oil, Natural gas)."
+  },
+  {
+    "id": "khoahoc_86",
+    "category": "khoahoc",
+    "front": "*   Balanced diet",
+    "back": "*   Eating enough Carbohydrates, Proteins, Fats, Vitamins, and Minerals."
+  },
+  {
+    "id": "khoahoc_87",
+    "category": "khoahoc",
+    "front": "*   Vitamins and their sources",
+    "back": "*   Vitamin C (Oranges, lemons - prevents bleeding gums). Vitamin D (Sunlight - good for bones)."
+  },
+  {
+    "id": "khoahoc_88",
+    "category": "khoahoc",
+    "front": "*   Harmful things to body",
+    "back": "*   Too much sugar/fat (causes obesity), Smoking (bad for lungs)."
+  },
+  {
+    "id": "khoahoc_89",
+    "category": "khoahoc",
+    "front": "*   Personal hygiene during sickness",
+    "back": "*   Cough into elbow, wash hands with soap, wear a mask, drink warm water."
+  },
+  {
+    "id": "khoahoc_90",
+    "category": "khoahoc",
+    "front": "*   Dengue fever (Sốt xuất huyết)",
+    "back": "*   Caused by mosquito bites. Prevent by sleeping under mosquito nets, clearing standing water (nước đọng)."
+  },
+  {
+    "id": "khoahoc_91",
+    "category": "khoahoc",
+    "front": "*   Fire safety (An toàn phòng cháy)",
+    "back": "*   Do NOT use elevators. Use stairs. Crawl low under smoke. Call 114."
+  },
+  {
+    "id": "khoahoc_92",
+    "category": "khoahoc",
+    "front": "*   Stop, Drop, and Roll",
+    "back": "*   Action to do if your clothes catch on fire."
+  },
+  {
+    "id": "khoahoc_93",
+    "category": "khoahoc",
+    "front": "*   Earthquake safety",
+    "back": "*   Drop, Cover, and Hold on (under a sturdy table). Do not run outside during shaking."
+  },
+  {
+    "id": "khoahoc_94",
+    "category": "khoahoc",
+    "front": "*   Traffic Rules: Zebra crossing",
+    "back": "*   White stripes on road for pedestrians to cross safely."
+  },
+  {
+    "id": "khoahoc_95",
+    "category": "khoahoc",
+    "front": "*   Seatbelt / Helmet",
+    "back": "*   Wear a seatbelt (dây an toàn) in a car. Wear a helmet (mũ bảo hiểm) on a motorbike/bicycle."
+  },
+  {
+    "id": "khoahoc_96",
+    "category": "khoahoc",
+    "front": "*   Traffic signs (Màu sắc biển báo)",
+    "back": "*   Red circle (Prohibition/Cấm). Blue circle (Mandatory/Bắt buộc). Red triangle (Warning/Nguy hiểm)."
+  },
+  {
+    "id": "khoahoc_97",
+    "category": "khoahoc",
+    "front": "*   Getting lost (Bị lạc)",
+    "back": "*   Stay where you are. Ask safe adults (Police, shop staff). Remember parents' phone numbers."
+  },
+  {
+    "id": "khoahoc_98",
+    "category": "khoahoc",
+    "front": "*   Online safety (An toàn mạng)",
+    "back": "*   Don't share personal info (address, password). Don't talk to strangers."
+  },
+  {
+    "id": "khoahoc_99",
+    "category": "khoahoc",
+    "front": "*   First aid for minor burns",
+    "back": "*   Put the burnt area under cool running water (NOT ice)."
+  },
+  {
+    "id": "khoahoc_100",
+    "category": "khoahoc",
+    "front": "*   Drowning prevention",
+    "back": "*   Learn to swim, always wear a life jacket (áo phao) on boats, never swim alone."
+  }
+]
